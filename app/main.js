@@ -1,9 +1,9 @@
 import Alligator from "./models/Alligator.js";
-import Bird from "./models/Alligator.js"
-import Dog from "./models/Alligator.js"
-import Bird from "./models/Alligator.js"
-import Eagle from "./models/Alligator.js"
-import Panda from "./models/Alligator.js"
+import Bird from "./models/Bird.js"
+import Dog from  "./models/Dog.js"
+import Bird from "./models/Bird.js"
+import Eagle from "./models/Eagle.js"
+import Panda from "./models/Panda.js"
 
 
 let ally = new Alligator("Ally", "green", "F", 200, 60, "big");
